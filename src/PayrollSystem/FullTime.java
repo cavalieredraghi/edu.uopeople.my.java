@@ -36,5 +36,5 @@ public class FullTime extends Employee{
 	public void setOvertime(double overtime) {
 		this.overtime = overtime;
 	}
-
+	
 }
